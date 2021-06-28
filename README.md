@@ -75,12 +75,13 @@ Model Outcome show that there is strong corrolation between MPG & Ground Clearna
 
 #### Summary Statistics on Suspension Coils
 
-Insert stats summary Page 
+![t_test_on_mfglost](https://user-images.githubusercontent.com/80013773/123591087-68ec7c00-d7a0-11eb-95c0-89962b316607.PNG) 
 
 #### T-Test on Suspension Coils
 T-Test for All Lost, Lot 1 & Lot 2 show that P-Values are above 0.05, and therefore we can reject the null hypothesis. It means our Lost are statistically similar. For Lot-3 The P-value is 0.04 (lower than 0.05), leading to the conclusion that we can't reject the null hypothesis. leading to the conclusion that Lot 3 is not statistically identical 
 
-add T-test images 
+![t_test_on_mfglost](https://user-images.githubusercontent.com/80013773/123591248-933e3980-d7a0-11eb-813f-68d08659e5ee.PNG)
+
 
 
 ####  Design a Study Comparing the MechaCar to the Competition
